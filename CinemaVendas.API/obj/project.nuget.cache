@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ps4H7u4YArH/20QTmS8+rCC3hfvdb27m3erjIp2gePkPBZ0fK20HjCyuRlRHttGTheRg3iIP9C2o/Oo5mjagOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaue.cbomfim\\Source\\Repos\\SenacCinemaTest\\CinemaVendas.API\\CinemaVendas.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\kaue.cbomfim\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

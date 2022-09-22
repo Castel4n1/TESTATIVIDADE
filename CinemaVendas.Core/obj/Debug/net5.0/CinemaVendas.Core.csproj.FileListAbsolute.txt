@@ -1,0 +1,12 @@
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\bin\Debug\net5.0\CinemaVendas.Core.deps.json
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\bin\Debug\net5.0\CinemaVendas.Core.dll
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\bin\Debug\net5.0\ref\CinemaVendas.Core.dll
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\bin\Debug\net5.0\CinemaVendas.Core.pdb
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.AssemblyInfoInputs.cache
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.AssemblyInfo.cs
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.csproj.CoreCompileInputs.cache
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.dll
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\obj\Debug\net5.0\ref\CinemaVendas.Core.dll
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.pdb
+C:\Users\kaue.cbomfim\Source\Repos\SenacCinemaTest\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.csproj.AssemblyReference.cache
